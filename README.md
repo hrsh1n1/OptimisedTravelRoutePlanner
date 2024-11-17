@@ -39,5 +39,5 @@ This project is designed to help travelers plan optimal travel routes between di
 1. Input the source and destination locations.
 2. Specify your preferences such as budget, mode of travel, or stopovers.
 3. The system will calculate and display the optimal route based on your criteria.
-![Uploading image.png…]()
+
 
