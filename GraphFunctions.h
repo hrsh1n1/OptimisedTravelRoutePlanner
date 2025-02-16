@@ -7,7 +7,7 @@
 #include <queue>
 #include <cstdlib>
 #include <stack>
-
+#include <cmath>
 #include "Location.h"
 #include "Route.h"
 #include "FileOperations.h"
