@@ -4,7 +4,7 @@
 #include <iterator>
 #include <vector>
 #include <stack>
-
+#include <cmath>
 #include "FileOperations.h"
 #include "Route.h"
 #include "GraphFunctions.h"
